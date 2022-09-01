@@ -44,8 +44,8 @@ Next give TWO example variable names and TWO example variable assignments that a
 * Hint: your IDE can help you discover these!
 * String FirstName = 123;
 * this variable name is incorrect because it doesn't follow camel case, and the variable assignment is incorrect because it's an integer
-* double BigNumber = "Evan";
-* this variable name is incorrect because it's not in camel case, and the variable assigned is a string
+* double int = "Evan";
+* this variable name is incorrect because it's a keyword in Java, and the variable assigned is a string
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
